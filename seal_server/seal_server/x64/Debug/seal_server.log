@@ -1,0 +1,12 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: 중간 디렉터리(x64\Debug\)에 다른 프로젝트(seal_demo.vcxproj)에서 공유하는 파일이 포함되어 있습니다.  이로 인해 잘못된 정리 및 다시 빌드 동작이 수행될 수 있습니다.
+  Password_check_2.cpp
+C:\Users\dwdw7\OneDrive - dgu.ac.kr\3-2\class\개연\seal_server\seal_server\winsockset_server.h(38,63): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'Password_check_2.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\dwdw7\OneDrive - dgu.ac.kr\3-2\class\개연\seal_server\seal_server\winsockset_server.h(63,49): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'Password_check_2.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\dwdw7\OneDrive - dgu.ac.kr\3-2\class\개연\seal_server\seal_server\Password_check_2.cpp(253,63): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  seal_server.vcxproj -> C:\Users\dwdw7\OneDrive - dgu.ac.kr\3-2\class\개연\seal_server\x64\Debug\seal_server.exe
+  'pwsh.exe'은(는) 내부 또는 외부 명령, 실행할 수 있는 프로그램, 또는
+  배치 파일이 아닙니다.

@@ -1,0 +1,12 @@
+﻿  pw_check_2.cpp
+C:\Users\dwdw7\OneDrive - dgu.ac.kr\3-2\class\개연\seal_client\seal_client\winsockset_client.h(83,49): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'pw_check_2.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\dwdw7\OneDrive - dgu.ac.kr\3-2\class\개연\seal_client\seal_client\pw_check_2.cpp(116,36): warning C4244: '초기화 중': '_Ty'에서 'char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\dwdw7\OneDrive - dgu.ac.kr\3-2\class\개연\seal_client\seal_client\pw_check_2.cpp(116,36): warning C4244:         with
+C:\Users\dwdw7\OneDrive - dgu.ac.kr\3-2\class\개연\seal_client\seal_client\pw_check_2.cpp(116,36): warning C4244:         [
+C:\Users\dwdw7\OneDrive - dgu.ac.kr\3-2\class\개연\seal_client\seal_client\pw_check_2.cpp(116,36): warning C4244:             _Ty=uint64_t
+C:\Users\dwdw7\OneDrive - dgu.ac.kr\3-2\class\개연\seal_client\seal_client\pw_check_2.cpp(116,36): warning C4244:         ]
+  seal_client.vcxproj -> C:\Users\dwdw7\OneDrive - dgu.ac.kr\3-2\class\개연\seal_client\x64\Debug\seal_client.exe
+  'pwsh.exe'은(는) 내부 또는 외부 명령, 실행할 수 있는 프로그램, 또는
+  배치 파일이 아닙니다.
